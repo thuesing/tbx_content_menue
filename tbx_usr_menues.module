@@ -68,11 +68,56 @@ function tbx_usr_menues_menu() {
     'type' => MENU_SUGGESTED_ITEM,
   );
 
+   // Root to the submenu; needs no type
+    $items['submenu'] = array(
+    	'title' => 'submenu',
+    	'access arguments' => array('access content'),
+    );
+    // page callback function for "cats" high up in the tree
+    $items['submenu/animals'] = array(
+      'title' => 'submenu/animals',
+      'type' => MENU_LOCAL_TASK,
+      'page callback' => '_tbx_usr_menues_menu_test',
+      'page arguments' => array('get_the_cats'),
+      'access arguments' => array('access content'),
+    );
+    // marked as default down at a leaf (this tab will end up underlined)
+    $items['submenu/animals/cats'] = array(
+      'title' => 'submenu/animals/cats',
+      'type' => MENU_DEFAULT_LOCAL_TASK,
+      'access arguments' => array('access content'),
+    );
+    $items['submenu/animals/dogs'] = array(
+      'title' => 'submenu/animals/dogs',
+      'page callback' => '_tbx_usr_menues_menu_test',
+      'page arguments' => array('get_the_dogs'),
+      'type' => MENU_LOCAL_TASK,
+      'access arguments' => array('access content'),
+      );
+      $items['submenu/vegetables'] = array(
+      'title' => 'submenu/vegetables',
+      'type' => MENU_LOCAL_TASK,
+      'page callback' => '_tbx_usr_menues_menu_test',
+      'page arguments' => array('get_the_artichokes'),
+      'access arguments' => array('access content'),
+      );
+     // when the Vegetables tab is clicked on, this will be the default, and get_the_artichokes will be the callback
+    $items['submenu/vegetables/artichokes'] = array(
+      'title' => 'submenu/vegetables/artichokes',
+      'type' => MENU_DEFAULT_LOCAL_TASK,
+    );
+    $items['submenu/vegetables/tomatos'] = array(
+      'title' => 'submenu/vegetables/tomatos',
+      'page callback' => '_tbx_usr_menues_menu_test',
+      'page arguments' => array('get_the_tomatoes'),
+      'type' => MENU_LOCAL_TASK,
+      'access arguments' => array('access content'),
+    );
 
-  return $items;
+    return $items;
 }
 
 
 function _tbx_usr_menues_menu_test($arg) {
-	return 'LOVELY!' . $arg;
+	return $arg . ' LOVELY!';
 }
