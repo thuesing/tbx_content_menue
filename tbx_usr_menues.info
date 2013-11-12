@@ -1,0 +1,4 @@
+name = Tbx usr menues
+description = UX usr menues
+core = 7.x
+files[] = tests/tbx_usr_menues.test

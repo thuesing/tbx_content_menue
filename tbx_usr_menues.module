@@ -1,0 +1,78 @@
+<?php
+
+/**
+ * @file tbx_usr_menues.module
+ * TODO: Enter file description here.
+ */
+
+/*
+ * hook_preprocess_node
+ * 
+ * 
+ */
+/*
+Edit Form Tabs:
+- Edit, Revisions
+- Add Menu
+-- List all possible content types
+- Advanced Menu
+-- Tools, Extras
+-- Power features
+--- Watch
+--- Revisions
+--- etc.
+
+*/
+
+
+function tbx_usr_menues_preprocess_node (&$vars) {
+# https://drupal.org/node/122262
+
+# dropdown mit bartik http://deltup.org/page.php?4/bartik
+
+
+    #https://api.drupal.org/api/drupal/includes%21menu.inc/function/menu_local_tasks/7
+	$lt = menu_local_tasks();
+	//kpr($lt);
+
+	// Get the primary and secondary MENU_LOCAL_TASKS:
+	// https://drupal.org/node/1003492
+    $tasks = menu_local_tabs();
+    //kpr($tasks);
+
+    // https://drupal.org/node/685664
+    $menuItems = menu_tree_page_data('main'); 
+    //kpr($menuItems);
+}
+
+
+function tbx_usr_menues_menu_local_tasks_alter() {
+	// https://api.drupal.org/api/drupal/modules%21system%21system.api.php/function/hook_menu_local_tasks_alter/7
+
+    # menu_link_save
+	//https://api.drupal.org/api/drupal/includes%21menu.inc/function/menu_link_save/7
+}
+
+/**
+ * Implements hook_menu().
+ */
+function tbx_usr_menues_menu() {
+  $items = array();
+  //menu-content-menu
+  
+  $items['content/foo'] = array(
+    'title' => 'myPage',
+    'page callback' => '_tbx_usr_menues_menu_test',
+    'page arguments' => '',
+    'access arguments' => array('access content'),
+    'type' => MENU_SUGGESTED_ITEM,
+  );
+
+
+  return $items;
+}
+
+
+function _tbx_usr_menues_menu_test($arg) {
+	return 'LOVELY!' . $arg;
+}

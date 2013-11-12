@@ -1,0 +1,601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"field_names"
+			],
+			[
+				"fiel",
+				"field_name"
+			],
+			[
+				"du",
+				"dup_terms"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"el",
+				"el"
+			],
+			[
+				"child",
+				"childListView"
+			],
+			[
+				"add",
+				"addChild"
+			],
+			[
+				"event",
+				"eventName"
+			],
+			[
+				"to",
+				"toJSON"
+			],
+			[
+				"l",
+				"listenTo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tbx_usr_menues.module",
+			"settings":
+			{
+				"buffer_size": 1245,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thuesing/www/bm/local_tasks_blocks/local_tasks_blocks.module",
+			"settings":
+			{
+				"buffer_size": 20907,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thuesing/www/bm/tbx_custom/tbx_custom.module",
+			"settings":
+			{
+				"buffer_size": 13782,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/MyBBK.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"wi",
+				"Mediawiker: Post page"
+			],
+			[
+				"wik",
+				"Mediawiker: Post page"
+			],
+			[
+				"pos",
+				"Mediawiker: Post page"
+			],
+			[
+				"wike",
+				"Mediawiker: Post page"
+			],
+			[
+				"Media",
+				"Mediawiker: Category tree"
+			],
+			[
+				"me",
+				"Mediawiker: Edit panel"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 152.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/thuesing/Dropbox/SMWconf.txt",
+		"/etc/php5/apache2/conf.d/20-xdebug.ini",
+		"/home/thuesing/bm/cd etc",
+		"/home/thuesing/bm/tbx_views_attach/tbx_views_attach.module",
+		"/home/thuesing/php.ini.diff",
+		"/etc/php5/apache2/php.ini",
+		"/etc/php5/cli/php.ini",
+		"/home/thuesing/.drush/drush.ini",
+		"/home/thuesing/snippets/find-something.sh",
+		"/home/thuesing/bm/tbx_custom/tbx_custom.module",
+		"/home/thuesing/Dropbox/FFU/_toolbox/eea-data.sparql.txt",
+		"/home/thuesing/bm/tbx_uniquetitle/tbx_uniquetitle.module",
+		"/home/thuesing/Downloads/taxonomy_dupecheck/taxonomy_dupecheck.module",
+		"/home/thuesing/www/exhibit/data.json",
+		"/home/thuesing/www/exhibit/data.test.json",
+		"/home/thuesing/bm/tbx_menu/tbx_menu.module",
+		"/home/thuesing/xfiles/expert.exhibit.json",
+		"/home/thuesing/Dear Andrea,",
+		"/home/thuesing/xfiles/taxonomies.exhibit.json",
+		"/home/thuesing/bm/tbx_json/tbx_json.module",
+		"/home/thuesing/Dropbox/snippets/bash-snippets.sh",
+		"/home/thuesing/snippets/sh:convert-pdf-jpg.sh",
+		"/home/thuesing/Dropbox/snippets/tbx_custom.module",
+		"/home/thuesing/bm/sparql/sparql_endpoint/sparql_endpoint.module",
+		"/home/thuesing/bm/examples/ajax_example/ajax_example_node_form_alter.inc",
+		"/home/thuesing/bm/tbx_custom/cd ~",
+		"/home/thuesing/www/jquery.rdfquery/index.html",
+		"/var/www/smw/assets/dump_to_db.sh",
+		"/var/www/smw-loe/assets/dumpdb.hlp.php",
+		"/var/www/smw/assets/Filter:Thema.mediawiki",
+		"/var/www/smw/assets/Filter:Sektor.mediawiki",
+		"/var/www/smw/assets/Category:Massnahmen.mediawiki",
+		"/var/www/smw/assets/Category:Ziele.mediawiki",
+		"/var/www/smw/assets/Category:Sektoren.mediawiki",
+		"/var/www/smw/assets/Category:Probleme.mediawiki",
+		"/var/www/smw/assets/Category:Verhalten.mediawiki",
+		"/var/www/smw/assets/Category:Ursachen.mediawiki",
+		"/var/www/smw/LocalSettings.php",
+		"/var/www/smw/assets/LoE+SMW-121204.xml",
+		"/var/www/smw/assets/Snippet:Array_print.mediawiki",
+		"/var/www/smw/assets/Template:Thema.mediawiki",
+		"/var/www/smw/assets/Category:Themen.mediawiki",
+		"/var/www/tbx-ezrdf/ez-ser-gv.png",
+		"/var/www/tbx-ezrdf/out/tbx:models.2013-09-03-E3ME.xml",
+		"/var/www/tbx.dev/sites/all/modules/tbx_json/exhibit-taxo-parser.inc.php",
+		"/var/www/tbx.dev/sites/all/modules/tbx_json/parse-taxos.script.php",
+		"/var/www/tbx.dev/sites/default/files/taxonomies.exhibit.json",
+		"/var/www/tbx.dev/sites/all/modules/tbx_exhibit/exhibit-facet-block.tpl.php",
+		"/var/www/tbx.dev/sites/all/modules/tbx_exhibit/tbx_exhibit.module",
+		"/home/thuesing/www/smw/sample.env",
+		"/home/thuesing/www/smw/assets/Category:Probleme.mediawiki",
+		"/home/thuesing/www/smw/assets/Category:Massnahmen.mediawiki",
+		"/home/thuesing/www/smw/assets/Category:Ursachen.mediawiki",
+		"/home/thuesing/www/smw/assets/Category:Ziele.mediawiki",
+		"/home/thuesing/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/thuesing/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/thuesing/www/smw/assets/Category:Themen.mediawiki",
+		"/home/thuesing/www/smw/assets/Category:Verhalten.mediawiki",
+		"/home/thuesing/www/smw/assets/Category:Sektoren.mediawiki",
+		"/home/thuesing/www/openurban/LocalSettings.php",
+		"/home/thuesing/www/smw/includes/libs/Dotenv.test.php",
+		"/home/thuesing/www/smw/LocalSettings.php",
+		"/home/thuesing/www/smw/assets/SemanticBundleSettings.php",
+		"/home/thuesing/www/smw/assets/MediaWiki:Sidebar.mediawiki",
+		"/home/thuesing/www/openurban/sample.env",
+		"/home/thuesing/www/smw/extensions/DeletePagePermanently/tmp.php",
+		"/var/www/smw/extensions/DeletePagePermanently/tmp.php",
+		"/home/thuesing/www/smw/assets/maintenance/README",
+		"/home/thuesing/www/smw/assets/Category:Ziele",
+		"/home/thuesing/www/visualRDF/rdf2json.php",
+		"/home/thuesing/www/visualRDF/embed.php",
+		"/home/thuesing/Downloads/koh├дrenz-onto-ontologies-REVISION-65/root-ontology.owl",
+		"/home/thuesing/www/smw/extensions/SemanticResultFormats/formats/d3/resources/ext.srf.d3.chart.treemap.js",
+		"/home/thuesing/www/smw/extensions/SemanticResultFormats/formats/d3/SRF_D3Chart.php",
+		"/home/thuesing/www/smw/extensions/SemanticResultFormats/formats/d3/resources/ext.srf.d3.chart.bubble.js",
+		"/var/www/tbx-ezrdf/rdf-to-json.sh",
+		"/var/www/smw/assets/SMW_dump.json",
+		"/home/thuesing/www/openurban/includes/libs/Dotenv.php",
+		"/home/thuesing/www/smw/extensions/SemanticResultFormats/tests/phpunit/formats/GraphTest.php",
+		"/home/thuesing/www/smw/assets/file-loop.sh",
+		"/home/thuesing/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/thuesing/.config/sublime-text-3/Packages/User/Mediawiker.sublime-settings",
+		"/home/thuesing/.config/sublime-text-3/Packages/Mediawiker/Mediawiker.sublime-settings",
+		"/home/thuesing/.config/sublime-text-3/Packages/Mediawiker/README.md",
+		"/home/thuesing/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/thuesing/www/smw/assets/Category:Massnahmen",
+		"/home/thuesing/www/smw/assets/Category:Probleme",
+		"/home/thuesing/www/smw/extensions/DeletePagePermanently/DeletePagePermanently.php",
+		"/var/www/jowl/index.html",
+		"/home/thuesing/www/smw/extensions/SemanticBundle/SemanticBundleSettings.php",
+		"/home/thuesing/www/smw/assets/Category:Sektoren",
+		"/home/thuesing/www/smw/assets/Category:Themen",
+		"/home/thuesing/www/smw/assets/Category:Ursachen",
+		"/home/thuesing/www/smw/assets/Category:Verhalten",
+		"/var/www/smw/extensions/SemanticMediaWiki/maintenance/SMW_dumpRDF.php",
+		"/home/thuesing/smw/assets/dotViz.sh",
+		"/home/thuesing/www/smw/assets/rdf_export_php.sh",
+		"/home/thuesing/www/smw/assets/dotViz.sh",
+		"/home/thuesing/www/smw/assets/smw.pagelist",
+		"/home/thuesing/www/smw/assets/categories.rdf",
+		"/home/thuesing/smw/assets/smw.pagelist",
+		"/home/thuesing/www/smw/LocalSettings.php.prod",
+		"/home/thuesing/Dropbox/dev/LOE/LOE Film Template.smw",
+		"/home/thuesing/www/smw/assets/Category:Test",
+		"/home/thuesing/www/smw/.gitignore",
+		"/home/thuesing/www/smw/assets/Probleme.PageSchema.xml",
+		"/home/thuesing/www/smw/assets/Ziele.PageSchema.xml",
+		"/var/www/tbx-ezrdf/model.exhibit.json",
+		"/var/www/tbx-ezrdf/demo.php",
+		"/home/thuesing/www/tbx-ezrdf/rdf-dor- viz.sh",
+		"/home/thuesing/snippets/sh:VIM setup",
+		"/home/thuesing/Dropbox/snippets/sh:inotify",
+		"/home/thuesing/www/smw/assets/README",
+		"/home/thuesing/snippets/apache-add-vhost.sh",
+		"/home/thuesing/www/smw/extensions/PageSchemas/PageSchemas.classes.php",
+		"/home/thuesing/www/smw/extensions/PageSchemas/PageSchemas.hooks.php",
+		"/home/thuesing/www/smw/extensions/PageSchemas/PageSchemas.php",
+		"/home/thuesing/www/bb-dragdrop/views/library.js",
+		"/home/thuesing/www/bb-dragdrop/app.js",
+		"/home/thuesing/www/bb-koharenz/app.js",
+		"/home/thuesing/www/bb-koharenz/main.js",
+		"/home/thuesing/www/bb-koharenz/node-list-view.js",
+		"/home/thuesing/www/bb-koharenz/child-list-view.js",
+		"/home/thuesing/www/bb-koharenz/router.js",
+		"/home/thuesing/www/bb-koharenz/collections.js",
+		"/home/thuesing/www/bb-koharenz/models.js",
+		"/home/thuesing/Downloads/evo-konv/evolino_71_de.html",
+		"/home/thuesing/www/bb-koharenz/css/screen.css"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"      ",
+			"type_of_practice",
+			"practice",
+			"tbx_menu_public_node_access",
+			"tbx_menu_current_user_can_access",
+			"$user",
+			"user",
+			"demand",
+			"xdebug",
+			"memory",
+			"disable_functions",
+			"disable",
+			"memory",
+			"$view->execute",
+			"render",
+			"dropdown_local_tasks",
+			"actions",
+			"#action",
+			"#actions",
+			"set",
+			"delete",
+			"delte",
+			"validate",
+			"DElete",
+			"form_state",
+			"\"id\":\"Water\"",
+			"ENVIRONMENTAL POLICIES",
+			"Water",
+			"exhibit_json",
+			"Water",
+			"\"id\":\"1363\"",
+			"Water",
+			"801",
+			"\"801\"",
+			"Water",
+			"\"Water\"",
+			"\"label\":\"Water\"",
+			"Water",
+			"\"Water\"",
+			"\"label\":\"Water\"",
+			"Water",
+			"\"\\/taxonomy\\/term\\/681\"",
+			"\"\\/taxonomy\\/term\\/117\"",
+			"unform",
+			"type",
+			"\n		",
+			");\n",
+			"SECTORA",
+			"\"label\":\"13",
+			"\"label\":\"Employment",
+			"\"label\":\"Employment and labour markets",
+			"\"id\":\"1347\"",
+			"id\":\"1347",
+			"1347",
+			"_callback_tbx_custom_form_expert_node_form_alter",
+			"node_insert",
+			"insert",
+			"_callback_tbx_custom_create_expert",
+			"submit",
+			" {{#set",
+			"Template:BelongsToFilm",
+			"BelongsToFilm",
+			"template",
+			"-",
+			"wikita",
+			"water",
+			"label\":\"ENVIRonmental po",
+			"ENVIRonmental po",
+			"\"label\":\"ENVIRonmental po",
+			"\"environmental_",
+			"\"ENVIRONMENTAL POLICIES\"",
+			"\"type\":\"ENVIRONMENTAL POLICIES\"",
+			"type\":\"ENVIRONMENTAL POL",
+			"ENVIRONMENTAL POL",
+			"d3",
+			"missing data",
+			"Problem_1",
+			"\n",
+			"api",
+			"mediawik",
+			"WikiEditor",
+			"wikieditor",
+			"Ziel",
+			"Massnahmen",
+			"Problem",
+			"skin",
+			"api",
+			"app.node",
+			"addchildnode",
+			"render child",
+			"children",
+			"kill",
+			"childListView",
+			"on.",
+			"childListView",
+			"render",
+			"nodecollection",
+			"close",
+			"nodecollection",
+			"initi",
+			"ChildListView.render",
+			"ChildListView.render ",
+			"close",
+			"NodeListView",
+			"this.$input ",
+			"view",
+			"\"",
+			"user\\/"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Massnahme",
+			"Sektoren",
+			"Problemw",
+			"    <Field name=\"Massnahmen\" list=\"list\">\n      <Label>Massnahmen</Label>\n      <semanticmediawiki_Property name=\"\">\n        <Type>Page</Type>\n      </semanticmediawiki_Property>\n      <semanticforms_FormInput>\n        <InputType>two listboxes</InputType>\n        <Parameter name=\"values from category\">Massnahmen</Parameter>\n      </semanticforms_FormInput>\n    </Field> ",
+			"    <Field name=\"Massnahmen\" list=\"list\">\n      <Label>Massnahmen</Label>\n      <semanticmediawiki_Property name=\"\">\n        <Type>Page</Type>\n      </semanticmediawiki_Property>\n      <semanticforms_FormInput>\n        <InputType>two listboxes</InputType>\n        <Parameter name=\"values from category\">Massnahmen</Parameter>\n      </semanticforms_FormInput>\n    </Field>   ",
+			"Ziel",
+			"Ursache",
+			"childNodes",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tbx_usr_menues.module",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								832,
+								832
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 468.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/thuesing/www/bm/local_tasks_blocks/local_tasks_blocks.module",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1956,
+								1956
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1638.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/thuesing/www/bm/tbx_custom/tbx_custom.module",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"project": "tbx_usr_menues.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"zie",
+				"assets/Category:Ziele.mediawiki"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 413.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 461.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
